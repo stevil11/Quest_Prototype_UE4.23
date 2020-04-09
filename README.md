@@ -15,3 +15,11 @@ This project is about Showingcaing what can be done in VR using an Oculus Quest
 + Museum
 + Rock art site
 + Desert water game
+
+
+### future prototype to-dos ###
+
++ Laser swap hands
++ grab with laser perhaps
++ Inventory system
++ Refactor
